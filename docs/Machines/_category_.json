@@ -1,0 +1,9 @@
+{
+  "label": "Les machines",
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "Les machines"
+  }
+}
