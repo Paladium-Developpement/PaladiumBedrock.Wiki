@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://paladium-developpement.github.io',
-  baseUrl: '/PaladiumBedrock/',
+  baseUrl: '/PaladiumBedrock.Wiki/',
 
   organizationName: 'Paladium',
   projectName: 'Paladium Bedrock',
