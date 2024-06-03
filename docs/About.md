@@ -2,7 +2,7 @@
 id: about
 title: À propos de Paladium
 ---
-
+![IMG_20240603_215144.jpg](https://github.com/PokedrockDev/Pokedrock-developpement/assets/167913723/9ef5a1dc-39ca-4e68-9e22-fea3788c1e1a)
 # 👋 À propos de Paladium
 
 Créé en 2015, **Paladium** est l'un des plus grands serveurs PvP-Faction francophones. Gratuit et moddé, il propose un système exclusif de factions, de PvP, de PvE et de farming.
