@@ -28,7 +28,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/Paladium-Developpement/PaladiumBedrock.Wiki',
+            'https://github.com/Paladium-Developpement/PaladiumBedrock.Wiki/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
