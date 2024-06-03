@@ -7,14 +7,14 @@ const config: Config = {
   tagline: '',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://paladium-developpement.github.io',
+  baseUrl: '/PaladiumBedrock/',
 
-  organizationName: 'paladium',
-  projectName: 'paladium-bedrock',
+  organizationName: 'Paladium',
+  projectName: 'Paladium Bedrock',
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
 
   i18n: {
     defaultLocale: 'fr',
@@ -28,7 +28,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Paladium-Developpement/PaladiumBedrock.Wiki',
         },
         theme: {
           customCss: './src/css/custom.css',
