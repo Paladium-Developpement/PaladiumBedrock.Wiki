@@ -1,12 +1,9 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
+/* Roboto Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
+  --ifm-color-primary: #ED9548;
+  --ifm-color-primary-transparent: rgba(237, 149, 72, 0.1);
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -14,17 +11,52 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
+  --ifm-font-family-base: Roboto, sans-serif;
+  --ifm-h1-font-size: 2rem;
+  --ifm-h2-font-size: 1.5rem;
+  --ifm-h3-font-size: 1.25rem;
+  --ifm-h4-font-size: 1rem;
+  --ifm-h5-font-size: 0.875rem;
+  --ifm-h6-font-size: 0.85rem;
+  --ifm-font-family-headings: Roboto, 'Segoe UI';
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --doc-sidebar-width: 290px !important;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+h1, h2, h3, h4, h5, h6 {
+  word-wrap: break-word;
+  word-break: break-word;
+  font-family: var(--ifm-font-family-headings);
+}
+
+h1 {
+  font-size: 2rem !important;
+}
+
+.markdown > h2 {
+  font-size: 1.5rem !important;
+}
+
+.markdown > h3 {
+  font-size: 1.25rem !important;
+}
+
+.markdown > h4 {
+  font-size: 1rem !important;
+}
+
+html[data-theme='dark'] code {
+  background-color: #292D3E !important;
+}
+
+.button.button--secondary.button--outline:not(.button--active):not(:hover) {
+  color:rgb(255, 255, 255);
+}
+
+.menu__link {
+  font-size: 87%;
+}
+
+.menu__link--active:not(.menu__link--sublist) {
+  background-color: var(--ifm-color-primary-transparent);
 }
