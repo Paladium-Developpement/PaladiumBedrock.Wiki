@@ -39,18 +39,25 @@ const config: Config = {
 
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
+    announcementBar: {
+      id: "prerelease",
+      content: 'The Wiki is currently in development, some pages may be incomplete or missing.',
+      backgroundColor: "#df4b30",
+      textColor: "#ffffff",
+      isCloseable: true,
+    },
     navbar: {
       title: 'Paladium Bedrock',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Paladium Logo',
         src: 'img/logo.svg',
       },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'wikiSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Wiki',
         },
       ],
     },
