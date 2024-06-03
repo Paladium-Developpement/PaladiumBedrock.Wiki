@@ -1,0 +1,9 @@
+{
+  "label": "Les métiers",
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "Les métiers"
+  }
+}

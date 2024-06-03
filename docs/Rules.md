@@ -1,6 +1,11 @@
-# 💡Règlement en jeu
+---
+id: rules
+title: Règlement en jeu
+---
 
-<img src="/PaladiumBedrock.Wiki/img/rule-logo.png" alt="Paladium" />
+# 💡 Règlement en jeu
+
+![img alt](/img/rule-logo.png)
 
 **Bienvenue sur le serveur de Paladium Bedrock !**
 
