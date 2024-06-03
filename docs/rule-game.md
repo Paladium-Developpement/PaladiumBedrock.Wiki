@@ -101,8 +101,6 @@ Cette liste n’est pas exhaustive : une sanction peut être appliquée (même s
 
 • les griefs de spawn, consistant à poser ou modifier volontairement un bloc du spawn (c'est-à-dire poser un bloc pour empêcher que les autres personnes aient accès au spawn) ;
 
-• les golems en warzone (celui-ci sera clear et toutes les personnes sur sa whitelist seront sanctionnées !) ;
-
 • toute perturbation ou manquement au règlement d’un évent/d’une quête ;
 
 • les champignons de lave et le fait de poser énormément de sources d'eau dans tout autre but que de piller une base claim de faction est interdit (les AP ne sont pas des bases claims). Si lors de notre déplacement, nous constatons un champignon de lave sans pillage en cours ou terminé, des sanctions pourront être appliquées ;
@@ -110,10 +108,6 @@ Cette liste n’est pas exhaustive : une sanction peut être appliquée (même s
 • si les champignons font lag le serveur et qu'un staff vous demande de stopper cela, vous devrez le faire immédiatement sous peine de sanction ;
 
 • les doubles comptes durant un bannissement ;
-
-• posséder plus de 2 Golems Attaquants par chunk (nous ne mettons pas en place de restrictions sur le nombre de Golems Farmers par chunk). En revanche, attention : il ne faut surtout pas mélanger les Golems Attaquants avec les Golems Farmers dans le même chunk ;
-
-• les canons dans les maisons de faction ;
 
 • casser la dernière couche de bedrock afin d'avoir un accès direct au void ;
 
@@ -123,16 +117,10 @@ Cette liste n’est pas exhaustive : une sanction peut être appliquée (même s
 
 • toutes les arnaques en rapport avec la Boutique (Point Boutique, Grade, Lucky Block, Lucky Pass, Cosmétique) sont prohibées ;
 
-• le fait d’utiliser la dimension mineur pour stocker du stuff ou pour placer des farms ;
-
-• le fait d’utiliser les commandes du plugin faction ou tout autre dispositif/technique permettant de contourner les protections et les interdictions mises en place pour l'event Egg Hunt ;
-
 • le fait de se procurer et d’utiliser les potions de dégâts, peu importe le contexte ;
 
 • l’utilisation de tout système permettant de contourner et de modifier les systèmes de gain d’élo (Boost BCC, etc.) ;
 
 • de drop l'armure symbiotique au sol lors d'un combat, dans le but que l'adversaire la ramasse et l'équipe par inadvertance. Cette technique sera considérée comme un abus de fonctionnalité et sera sévèrement sanctionnée ;
-
-• l'utilisation de toute technique ou de tout item permettant de ne plus subir d'effet de recul (pierre de survie, potion de Jupiter, etc.) sur les events automatisés de Paladium (KOTH et Totem) ;
 
 • toute base creusée dans la bedrock doit obligatoirement avoir l'intégralité des couches supérieures de la bedrock creusées également (pas de toit en bedrock ni de couche de bedrock sur le dessus de votre base).
