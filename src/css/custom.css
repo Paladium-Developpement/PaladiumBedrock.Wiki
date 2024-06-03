@@ -60,3 +60,14 @@ html[data-theme='dark'] code {
 .menu__link--active:not(.menu__link--sublist) {
   background-color: var(--ifm-color-primary-transparent);
 }
+
+.hero--primary {
+  --ifm-hero-text-color: rgb(255, 255, 255) !important;
+  background-image:
+          linear-gradient(rgba(0, 0, 0, 0.1),
+          rgba(0, 0, 0, 0.65)),
+          url("../../static/img/hero-boss.png") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}

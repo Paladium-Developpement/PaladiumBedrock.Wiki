@@ -61,12 +61,6 @@ const config: Config = {
         },
       ],
     },
-    footer: {
-      style: 'dark',
-      links: [
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} Paladium`,
-    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
