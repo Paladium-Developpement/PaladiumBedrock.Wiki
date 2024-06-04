@@ -13,4 +13,3 @@ Créé en 2015, **Paladium** est l'un des plus grands serveurs PvP-Faction franc
 
 <span style="color: orange;">➤ Fixez-vous des objectifs</span> : Augmentez votre expérience dans certains métiers, accomplissez des quêtes et anéantissez des boss pour recevoir des récompenses.
 
-**<span style="color: orange;">Connetez vous maintenant via l'ip play.paladium-bedrock.fr et le port 19132 </span>** et démarrez votre aventure, seul(e) ou entre ami(e)s.
