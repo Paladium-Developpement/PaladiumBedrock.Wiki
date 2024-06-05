@@ -40,12 +40,14 @@ Les armures dans minecraft son très importantes! D'autant plus que dans le pvp 
 | Bottes en paladium vert       |  | |
 
 ## 5. Armure en endium
-| Objet              | icone   | descriptif | Craft |
-|--------------------|---------|------------|-------|
-| Casque en endium   | Valeur 2 | Valeur 3   |       |
-| Plastron en endium | Valeur 8 | Valeur 9   |       |
-| Jambière en endium |          |            |       |
-| Bottes en endium   |  | |
+| Objet              | icone    | descriptif | Craft                                  |
+|--------------------|----------|------------|----------------------------------------|
+| Casque en endium   | Valeur 2 | Valeur 3   | ![craft](..%2F..%2Fstatic%2Fimg%2Fendium%20helemt%20craft.png) |
+| Plastron en endium | Valeur 8 | Valeur 9   | ![craft](..%2F..%2Fstatic%2Fimg%2Fendium%20chestplate%20craft.png)                                       |
+| Jambière en endium |          |            | ![craft](..%2F..%2Fstatic%2Fimg%2FCapture%20d%92%E9cran%202024-06-05%20171112.png)                                       |
+| Bottes en endium   | |         |![craft](..%2F..%2Fstatic%2Fimg%2Fendium%20boots%20craft.png) |
+
+
 
 
 
