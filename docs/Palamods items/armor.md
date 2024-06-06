@@ -34,10 +34,10 @@ Les armures dans minecraft son très importantes! D'autant plus que dans le pvp 
 ## 4. Armure en paladium vert
 | Objet                     | icone   | descriptif | Craft |
 |---------------------------|---------|------------|-------|
-| Casque en paladium vert   |![green_paladium_helmet.png](img%2Fgreen_paladium_helmet.png)| Valeur 3   |       |
-| Plastron en paladium vert |![green_paladium_chestplate.png](img%2Fgreen_paladium_chestplate.png)  | Valeur 9   | qs    |
-| Jambière en paladium vert |![green_paladium_leggings.png](img%2Fgreen_paladium_leggings.png)          |            |       |
-| Bottes en paladium vert       |![green_paladium_boots.png](img%2Fgreen_paladium_boots.png)  | |
+| Casque en paladium vert   || Valeur 3   |       |
+| Plastron en paladium vert |  | Valeur 9   | qs    |
+| Jambière en paladium vert |         |            |       |
+| Bottes en paladium vert       | | |
 
 ## 5. Armure en endium
 | Objet              | icone   | descriptif | Craft                                  |
