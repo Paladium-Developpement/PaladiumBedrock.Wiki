@@ -74,7 +74,7 @@ Pour plus d'information sur cette amélioration rendez vous ici.
 | **Bottes de voyage** <br/> _travel boots_|![travel_boots.png](..%2F..%2Fstatic%2Fimg%2Fitems%2Ftravel_boots.png) |att de relance du seveur |![travel_boots.png](..%2F..%2Fstatic%2Fimg%2Fcrafts%2Ftravel_boots.png)       |
 
 
-8. Les casques
+## 8. Les casques
 
 
 | objet                               | icone    | descriptif | craft |
