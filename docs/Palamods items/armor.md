@@ -2,6 +2,7 @@
 id: armor
 title: Les armures
 ---
+
 # Les armures
 
 Les armures dans minecraft sont très importantes! D'autant plus que dans le pvp paladium. Nous avons concus des armures modées uniques pour vous. En voici la lise.
@@ -32,7 +33,7 @@ es caractéristiques et données sur la durabilité ne prennent pas en compte le
 |---------------------------------------------------|---------|-----------|-----|
 | **Casque en paladium** <br/> _paladium helmet_      |![paladium_helmet.png](..%2F..%2Fstatic%2Fimg%2Fitems%2Fpaladium_helmet.png) | att de relance du seveur  |![paladium_helmet.png](..%2F..%2Fstatic%2Fimg%2Fcrafts%2Fpaladium_helmet.png)  |
 | **Plastron en paladium** <br/> _paladium chestplate_ |![paladium_chestplate.png](..%2F..%2Fstatic%2Fimg%2Fitems%2Fpaladium_chestplate.png)  |    att de relance du seveur       |![paladium_chestplate.png](..%2F..%2Fstatic%2Fimg%2Fcrafts%2Fpaladium_chestplate.png)     |
-| **Jambière en paladium** <br/> _paladium leggings_  |  ![paladium_leggings.png](..%2F..%2Fstatic%2Fimg%2Fitems%2Fpaladium_leggings.png)     |  att de relance du seveur         ![paladium_leggings.png](..%2F..%2Fstatic%2Fimg%2Fcrafts%2Fpaladium_leggings.png)|   |
+| **Jambière en paladium** <br/> _paladium leggings_  |  ![paladium_leggings.png](..%2F..%2Fstatic%2Fimg%2Fitems%2Fpaladium_leggings.png)     |  att de relance du seveur         | ![paladium_leggings.png](..%2F..%2Fstatic%2Fimg%2Fcrafts%2Fpaladium_leggings.png)  |
 | **Bottes en paladium**  <br/>  _paladium boots_|![paladium_boots.png](..%2F..%2Fstatic%2Fimg%2Fitems%2Fpaladium_boots.png) |att de relance du seveur           |![paladium_boots.png](..%2F..%2Fstatic%2Fimg%2Fcrafts%2Fpaladium_boots.png)|
 
 ## 4. Armure en paladium vert
